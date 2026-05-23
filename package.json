@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/generate-image.js"
+  },
+  "dependencies": {
+    "@google/genai": "latest"
+  }
+}
